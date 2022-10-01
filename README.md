@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/matthewmoore23/matthewmoore23.github.io/main/elev1.jpg" width="400"> <img src="https://raw.githubusercontent.com/matthewmoore23/matthewmoore23.github.io/main/elev2.jpg" width="400">
 <img src="https://github.com/matthewmoore23/p1.matthew.moore/blob/main/elev.gif" width="400">
-![alt text](https://github.com/matthewmoore23/p1.matthew.moore/blob/main/elev.gif)
+![](elev.gif)
 <iframe src='https://gfycat.com/ifr/DecimalVioletFlee' frameborder='0' scrolling='no' allowfullscreen width='640' height='1180'></iframe>
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/YOaSoVr" data-context="false" ><a href="//imgur.com/a/YOaSoVr"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
