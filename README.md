@@ -4,9 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/matthewmoore23/matthewmoore23.github.io/main/elev1.jpg" width="400"> <img src="https://raw.githubusercontent.com/matthewmoore23/matthewmoore23.github.io/main/elev2.jpg" width="400">
 <img src="https://github.com/matthewmoore23/p1.matthew.moore/blob/main/elev.gif" width="400">
-![](elev.gif)
-<iframe src='https://gfycat.com/ifr/DecimalVioletFlee' frameborder='0' scrolling='no' allowfullscreen width='640' height='1180'></iframe>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/YOaSoVr" data-context="false" ><a href="//imgur.com/a/YOaSoVr"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![](elev2.gif)
 
 #### However, it does have a glaring issue. If you add up the 7 floors, the open and close door buttons, and the alarm button you get 10 buttons. These 10 buttons are all the user feasibly needs to operate the elevator. Right above those 10 however are 12 buttons/keyholes that take up a majority of the space of the elevator UI.
 #### This is bad because over half of the available options in the UI aren't accessible to the user. This wouldn't be such an issue if they didn't occupy so much space, but over 50% of the UI is taken up by it.
