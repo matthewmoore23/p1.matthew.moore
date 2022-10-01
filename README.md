@@ -10,10 +10,10 @@
 
 #### B - The most common uses of the elevator will be for the most people who use it most commonly. To go up and down floors. There are rare cases where maintenance may need access to some of the more neglected buttons, or a firefighter may need to use the elevator with a key. 
 #### Users will most commonly get on the elevator, press the floor they need to go to, and then wait until it takes them there. It's possible they may use the open or close door function if the elevator door isn't working properly. 
-#### This elevator provides ample support by being very intuitive from the get go for normal users. Aside from the large number of buttons for firefighters and maintenance use only, there few buttons that are there are simple enough that the user can figure it out on their own. The included braille under the numbers, the light up buttons, and the star to show the ground floor all support the user in operation of the elevator.
-#### The elavtor provides feedback by lighting up the buttons that are pressed, playing a beep when going from one floor to another, and showing the ascent/descent at the top.
+#### This elevator provides ample support by being very intuitive from the get go for normal users. Aside from the large number of buttons for firefighters and maintenance use only, the few buttons that are there are simple enough that the user can figure it out on their own. The included braille under the numbers, the light up buttons, and the star to show the ground floor all support the user in operation of the elevator.
+#### The elevtor provides feedback by lighting up the buttons that are pressed, playing a beep when going from one floor to another, and showing the ascent/descent at the top.
 #### I think the only mistake a user could reasonably make is pressing the wrong door close or open button.
-#### The only improvements I think need to be made are moving the fire operation and maintenance buttons out of the way of the user (towards the bottom) and turning the current floor UI at the top into a screen of some sort. That would change the UI at the top from being uneven into a nice, centered number. The only draw back is that the door close, open, and alarm buttons need to be repositioned in the UI panel, since those buttons, along with a fire operation button, created a nice 2x2 square at the bottom of the UI. I think it's a necessary trade off for creating more space for the common user.
+#### Easy improvements can be made by removing the fire operation and maintenance buttons, putting them at the bottom where they wont annoy users by taking up space. This leaves an even 10 buttons for the user to select.
 
 <img src="p1.matthew.moore.png" width="370">
 
