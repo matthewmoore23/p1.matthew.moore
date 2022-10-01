@@ -17,4 +17,4 @@
 
 <img src="p1.matthew.moore.png" width="370">
 
-#### Here are the improvements visualized, and I think it looks much better than the original design. All buttons here have a purpose for a common user, compared to the original iteration where a decent chunk of buttons or other pieces of the elevator did not.
+#### Here are the improvements visualized, and I think it looks much better than the original design. All buttons here have a purpose for a common user, compared to the original iteration where a decent chunk of buttons or other pieces of the elevator did not. 
