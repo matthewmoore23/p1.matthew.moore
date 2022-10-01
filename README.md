@@ -1,4 +1,4 @@
-# CS 3366 Human Computer Interaction Project 1 Matthew Moore
+# CS 3366 Human Computer Interaction Project 1
 
 #### C - I decided on one of the elevators at ULofts for my project. The overall layout of the elevator is good. It's easily accessible and readable. The buttons light up when pressed and the numbers on the side have accompanying braille under them.
 
@@ -8,7 +8,7 @@
 #### This is bad because over half of the available options in the UI aren't accessible to the user. This wouldn't be such an issue if they didn't occupy so much space, but over 50% of the UI is taken up by it.
 
 
-#### B - The most common uses of the elevator will be for the most people who use it most commonly. To go up and down floors. There are rare cases where maintenance may need access to some of the more neglected buttons, or a firefighter may need to use the elevator with a key. Overall, I think this interface is definitely sufficient for common use. The only problem I could potentially see is someone pressing the wrong door open or close button, as there is a set at the bottom for common use and near the top for fire operation only.
+#### B - The most common uses of the elevator will be for the most people who use it most commonly. To go up and down floors. There are rare cases where maintenance may need access to some of the more neglected buttons, or a firefighter may need to use the elevator with a key. 
 #### Users will most commonly get on the elevator, press the floor they need to go to, and then wait until it takes them there. It's possible they may use the open or close door function if the elevator door isn't working properly. 
 #### This elevator provides ample support by being very intuitive from the get go for normal users. Aside from the large number of buttons for firefighters and maintenance use only, there few buttons that are there are simple enough that the user can figure it out on their own. The included braille under the numbers, the light up buttons, and the star to show the ground floor all support the user in operation of the elevator.
 #### The elavtor provides feedback by lighting up the buttons that are pressed, playing a beep when going from one floor to another, and showing the ascent/descent at the top.
@@ -17,3 +17,4 @@
 
 <img src="p1.matthew.moore.png" width="370">
 
+#### Here are the improvements visualized, and I think it looks much better than the original design. All buttons here have a purpose for a common user, compared to the original iteration where a decent chunk of buttons or other pieces of the elevator did not.
